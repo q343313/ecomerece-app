@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655394207734",
+    "project_id": "ecomereceapp-d9e2f",
+    "storage_bucket": "ecomereceapp-d9e2f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655394207734:android:37933d7e3fcec8a5d9f9d7",
+        "android_client_info": {
+          "package_name": "com.example.ecomrece_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuxdsW5ls3M182S2lfy098lddbXsTIdIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
